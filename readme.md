@@ -17,6 +17,11 @@
 > 地址：https://cloud.ibm.com/
 
 
+```
+wget --no-check-certificate -O install.sh https://raw.githubusercontent.com/bigfangfang/IBMYes/master/install.sh && chmod +x install.sh  && ./install.sh
+
+```
+
 
 ```
 wget --no-check-certificate -O install.sh https://raw.githubusercontent.com/huyan985/IBMYes/master/install.sh && chmod +x install.sh  && ./install.sh
